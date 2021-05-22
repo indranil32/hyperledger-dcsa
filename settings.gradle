@@ -1,0 +1,5 @@
+rootProject.name = 'hyperledger-dcsa'
+include 'tnt'
+include 'tnt:common'
+include 'tnt:smartcontract'
+include 'tnt:server'
